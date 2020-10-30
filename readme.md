@@ -1,0 +1,3 @@
+# PRACTICA 03
+En esta práctica insertaremos documentos en la colección inventory para así poder realizar filtros más complejos, sobretodo realizaremos consultas utilizando los operadores Query como pueden ser el operador AND.
+La estructura es la siguiente, dos carpetas, src y docs, la primera contiene los .js de las inserciones y las consultas realizadas y la carpeta docs contiene un pequeño documento explicativo
